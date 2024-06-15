@@ -20,6 +20,7 @@
 10. [Tableau Dashboard](#tableau-dashboard)
 11. [Conclusion](#conclusion)
 
+
 ## Executive Summary
 Zara, a leading global fashion retailer, has built a formidable reputation through its unique approach to fast fashion, setting it apart in the competitive retail landscape. Central to Zara's success is its unparalleled brand loyalty, which has been instrumental in driving sales and revenue. This project explores how Zara's brand loyalty influences sales dynamics and examines the findings from a recent analysis on the impact of product position, promotion, and seasonality on sales volume and revenue.
 
@@ -83,3 +84,8 @@ The dashboard shows insights into the sales and revenue of different terms (jack
 Zara's robust brand loyalty plays a crucial role in mitigating the impact of traditional retail strategies on sales volume and revenue. The analysis highlights that the brand's loyal customer base consistently drives sales, irrespective of product positioning, promotional efforts, or seasonal factors. This loyalty allows Zara to maintain a steady revenue stream and reinforces its competitive advantage in the fashion retail industry.
 
 
+## Code
+The code used for data analysis and visualization is organized in the following directories:
+
+- **Data**: Contains the dataset (`data/zara.csv`).
+- **Notebooks**: Contains the Jupyter notebook with the analysis (`notebooks/sales_analysis.ipynb`).
