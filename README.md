@@ -78,7 +78,7 @@ Seasonal products did not exhibit significant differences in sales compared to n
 - Strong brand identity and customer experience may lead to steady sales across different conditions.
 
 ## Tableau Dashboard
-The dashboard shows insights into the sales and revenue of different terms (jackets, sweaters, shoes, jeans, and t-shirts).
+The dashboard shows insights into the sales and revenue of different terms (jackets, sweaters, shoes, jeans, and t-shirts) https://public.tableau.com/shared/SZG3MBJ8G?:display_count=n&:origin=viz_share_link.
 
 ## Conclusion
 Zara's robust brand loyalty plays a crucial role in mitigating the impact of traditional retail strategies on sales volume and revenue. The analysis highlights that the brand's loyal customer base consistently drives sales, irrespective of product positioning, promotional efforts, or seasonal factors. This loyalty allows Zara to maintain a steady revenue stream and reinforces its competitive advantage in the fashion retail industry.
