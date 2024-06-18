@@ -88,4 +88,4 @@ Zara's robust brand loyalty plays a crucial role in mitigating the impact of tra
 The code used for data analysis and visualization is organized in the following directories:
 
 - **Data**: Contains the dataset (`data/zara.csv`).
-- **Notebooks**: Contains the Jupyter notebook with the analysis (`notebooks/sales_analysis.ipynb`).
+- **Notebooks**: Contains the Jupyter notebook with the analysis (`Zara_Sales_Analysis.ipynb`).
